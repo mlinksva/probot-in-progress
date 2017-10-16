@@ -10,11 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "probot": "^0.7.2"
+    "probot": "^2.0.0"
   },
   "devDependencies": {
     "debug": "^3.1.0",
-    "expect": "^1.20.2",
+    "expect": "^21.2.1",
     "jest": "^21.2.1",
     "localtunnel": "^1.8.2",
     "nodemon": "^1.12.1",
